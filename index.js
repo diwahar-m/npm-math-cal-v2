@@ -35,4 +35,4 @@ function division(a, b){
 }
 
 
-export default {addition, subtraction, multiplication, division};
+export {addition, subtraction, multiplication, division};
